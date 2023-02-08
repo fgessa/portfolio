@@ -1,0 +1,137 @@
+[
+    {
+        "imageSrc": "images/projects/project-1.png",
+        "title": "Team Profile Generator",
+        "summary": "CLI",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/team-profile-generator",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://github.com/goloobab/team-profile-generator",
+                "icon": "bx-link"
+            }
+        ]
+    },
+    {
+        "imageSrc": "images/projects/project-2.png",
+        "title": "Readme Generator",
+        "summary": "CLI",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/readme-generator",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://github.com/goloobab/readme-generator",
+                "icon": "bx-link"
+            }
+        ]
+    },
+    {
+        "imageSrc": "images/projects/project-3.png",
+        "title": "Food2Go",
+        "summary": "App",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/food2go",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://goloobab.github.io/food2go",
+                "icon": "bx-link"
+            }
+        ]
+    },
+    {
+        "imageSrc": "images/projects/project-4.png",
+        "title": "Weather Dashboard",
+        "summary": "Web App",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/Weather-Dashboard",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://goloobab.github.io/Weather-Dashboard/",
+                "icon": "bx-link"
+            }
+        ]
+    },
+    {
+        "imageSrc": "images/projects/project-5.png",
+        "title": "Daily Planner",
+        "summary": "App",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/Daily-Planner-App",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://goloobab.github.io/Daily-Planner-App/",
+                "icon": "bx-link"
+            }
+        ]
+    },
+    {
+        "imageSrc": "images/projects/project-6.png",
+        "title": "Quiz",
+        "summary": "App",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/Code-Quiz",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://goloobab.github.io/Code-Quiz/",
+                "icon": "bx-link"
+            }
+        ]
+    },
+    {
+        "imageSrc": "images/projects/project-7.png",
+        "title": "Password Generator",
+        "summary": "App",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/Password-Generator",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://goloobab.github.io/Password-Generator/",
+                "icon": "bx-link"
+            }
+        ]
+    },
+    {
+        "imageSrc": "images/projects/project-8.png",
+        "title": "Portfolio",
+        "summary": "bootstrap",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/Bootstrap-Portfolio",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://goloobab.github.io/Bootstrap-Portfolio/",
+                "icon": "bx-link"
+            }
+        ]
+    },
+    {
+        "imageSrc": "images/projects/project-9.png",
+        "title": "Code Refactor",
+        "summary": "Html",
+        "details": [
+            {
+                "url": "https://github.com/goloobab/horiseon-webpage",
+                "icon": "bxl-github"
+            },
+            {
+                "url": "https://goloobab.github.io/horiseon-webpage/",
+                "icon": "bx-link"
+            }
+        ]
+    }
+]
