@@ -41,7 +41,7 @@ function About() {
                           learning and eager for new challenges, I am excited to grow as a front-end developer."
 
                         </p>
-                        <div className="text-center"><a href="files/Resume.pdf" className="btn" download>Download CV</a></div>
+                        <div className="text-center"><a href={process.env.PUBLIC_URL + "/files/Resume.pdf"} className="btn" download>Download CV</a></div>
                     </div>
                 </div>
 
