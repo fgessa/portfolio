@@ -2,7 +2,7 @@ function ProjectItem(props) {
     return (
         <div className="col-lg-4 col-md-6 project-item">
             <div className="project-wrap">
-                <img src={props.project.imageSrc} className="img-fluid" alt="" />
+                <img src={process.env.PUBLIC_URL + props.project.imageSrc} className="img-fluid" alt="" />
 
                 <div className="project-info">
                     <h4>{props.project.title}</h4>
