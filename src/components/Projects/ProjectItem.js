@@ -1,6 +1,8 @@
 function ProjectItem(props) {
+    const summary = props.project.summary.toLowerCase();
+
     return (
-        <div className="col-lg-4 col-md-6 project-item">
+        <div className={"col-lg-4 col-md-6 project-item filter-" + summary}>
             <div className="project-wrap">
                 <img src={process.env.PUBLIC_URL + props.project.imageSrc} className="img-fluid" alt="" />
 

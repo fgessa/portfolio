@@ -47,7 +47,7 @@
     {
         "imageSrc": "/images/projects/project-4.png",
         "title": "Weather Dashboard",
-        "summary": "Web App",
+        "summary": "Web",
         "details": [
             {
                 "url": "https://github.com/goloobab/Weather-Dashboard",
@@ -107,7 +107,7 @@
     {
         "imageSrc": "/images/projects/project-8.png",
         "title": "Portfolio",
-        "summary": "bootstrap",
+        "summary": "web",
         "details": [
             {
                 "url": "https://github.com/goloobab/Bootstrap-Portfolio",
@@ -122,7 +122,7 @@
     {
         "imageSrc": "/images/projects/project-9.png",
         "title": "Code Refactor",
-        "summary": "Html",
+        "summary": "web",
         "details": [
             {
                 "url": "https://github.com/goloobab/horiseon-webpage",
